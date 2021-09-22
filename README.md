@@ -1,4 +1,4 @@
-👋 Hi there, I am Heri Kaniugu.
+Hi there 👋
 
 Software Developer and UI/UX Designer
 
