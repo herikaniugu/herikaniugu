@@ -1,6 +1,6 @@
 Hi there 👋
 
-Developer, and Designer
+Developer, Designer, Author, and Mentor.
 
-- 👯 I’m looking to collaborate on ... Web & App Development, Game Programming, Blockchain Technology, and UI/UX Design
+- 👯 I’m looking to collaborate on ... Web, App & Game Development, Hardware Programming, and Blockchain Technology
 - 💬 Ask me about ... Coding, Bots, and Cryptocurrency
