@@ -1,8 +1,6 @@
 Hi there 👋
 
-Software Developer and UI/UX Designer
+Developer, and Designer
 
-- 🔭 I’m currently working on ... Computer Programming and Fintech Engineering
-- 👯 I’m looking to collaborate on ... Software Development and UX Design
-- 🤔 I’m looking for help with ... Debugging
-- 💬 Ask me about ... Fintech and Programming
+- 👯 I’m looking to collaborate on ... Web & App Development, Game Programming, Blockchain Technology, and UI/UX Design
+- 💬 Ask me about ... Coding, Bots, and Cryptocurrency
