@@ -2,5 +2,5 @@ Hi there 👋
 
 I'm just a Developer, Designer, Author, and Mentor.
 
-- 👯 I’m looking to collaborate on ... Web, App & Game Development, Hardware Programming, and Blockchain Technology
-- 💬 Ask me about ... Coding, Bots, and Cryptocurrency
+- 👯 I’m looking to collaborate on ... Web, App, Game, Blockchain & Bot Development.
+- 💬 Ask me about ... Coding, Gaming, Bots, and Cryptocurrency.
