@@ -1,6 +1,6 @@
 # Heri Kaniugu
 
-### Software Engineer · Digital Product Builder · AI & Quantitative Researcher
+### Software Engineer
 
 I build software at the intersection of **engineering, quantitative finance, artificial intelligence, and interactive digital products**.
 
